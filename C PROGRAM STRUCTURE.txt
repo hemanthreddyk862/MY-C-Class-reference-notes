@@ -1,0 +1,9 @@
+C Program structure:
+
+
+Header
+main
+variable declaration
+input
+process
+output

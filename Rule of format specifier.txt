@@ -1,0 +1,7 @@
+%c is the format specifier for character and %s is the format specifier for string(character array)
+
+
+%C --- single charecter --- Char x;
+%s --- string name.     --- char x[20]; ------here 20 indicates charecter sapces
+%d --- integer          --- int x;
+%f --- decimal          --- float x;
