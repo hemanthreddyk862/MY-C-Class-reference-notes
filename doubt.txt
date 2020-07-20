@@ -3,3 +3,5 @@ Total=a+b+c;
 Average=(float)Total/3;
 
 Here while we print the output for total which will be taken(int or float) as we are declaring float for total in the step above.
+
+
